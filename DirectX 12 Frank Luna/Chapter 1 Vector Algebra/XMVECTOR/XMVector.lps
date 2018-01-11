@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="XMVector.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="53" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1115"/>
+        <CursorPos X="33" Y="1131"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Lazarus_Test\mainunit.pas"/>
+        <UnitName Value="MainUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="487"/>
+        <CursorPos Y="509"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3276"/>
+        <CursorPos Y="3280"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2088" TopLine="2068"/>
+      </Position1>
+      <Position2>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2089" TopLine="2068"/>
+      </Position2>
+      <Position3>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2090" TopLine="2068"/>
+      </Position3>
+      <Position4>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2091" TopLine="2068"/>
+      </Position4>
+      <Position5>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="3058" Column="25" TopLine="3037"/>
+      </Position5>
+      <Position6>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="997" Column="20" TopLine="978"/>
+      </Position6>
+      <Position7>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2087" Column="5" TopLine="2085"/>
+      </Position7>
+      <Position8>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2054" TopLine="2035"/>
+      </Position8>
+      <Position9>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2055" TopLine="2035"/>
+      </Position9>
+      <Position10>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2056" TopLine="2035"/>
+      </Position10>
+      <Position11>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2057" TopLine="2035"/>
+      </Position11>
+      <Position12>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2058" TopLine="2035"/>
+      </Position12>
+      <Position13>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="3060" TopLine="3041"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="161" TopLine="147"/>
+      </Position14>
+      <Position15>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="1956" TopLine="1937"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="158" Column="27" TopLine="147"/>
+      </Position16>
+      <Position17>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="1153" Column="30" TopLine="1134"/>
+      </Position17>
+      <Position18>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="3059" Column="30" TopLine="3033"/>
+      </Position18>
+      <Position19>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="995" Column="59" TopLine="976"/>
+      </Position19>
+      <Position20>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="3052" Column="28" TopLine="3033"/>
+      </Position20>
+      <Position21>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="1153" Column="129" TopLine="1134"/>
+      </Position21>
+      <Position22>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.XM_No_Intrinsics.inc"/>
+        <Caret Line="2052" Column="59" TopLine="2033"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="158" TopLine="147"/>
+      </Position23>
+      <Position24>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="3056" Column="23" TopLine="3039"/>
+      </Position24>
+      <Position25>
+        <Filename Value="D:\HorseRanche_Source\Libraries\DirectXMath\DirectXMath\Units\DirectX.Math.pas"/>
+        <Caret Line="1131" Column="33" TopLine="1115"/>
+      </Position25>
+      <Position26>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="166" Column="58" TopLine="152"/>
+      </Position26>
+      <Position27>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="173" Column="58" TopLine="159"/>
+      </Position27>
+      <Position28>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="134" Column="98" TopLine="107"/>
+      </Position28>
+      <Position29>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="150" Column="94" TopLine="119"/>
+      </Position29>
+      <Position30>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="140" Column="93" TopLine="115"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

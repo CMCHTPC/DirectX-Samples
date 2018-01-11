@@ -1,0 +1,58 @@
+object Form1: TForm1
+  Left = 486
+  Height = 392
+  Top = 369
+  Width = 780
+  Caption = 'Form1'
+  ClientHeight = 392
+  ClientWidth = 780
+  LCLVersion = '1.8.0.6'
+  object Memo1: TMemo
+    Left = 8
+    Height = 280
+    Top = 104
+    Width = 768
+    Font.Color = 8936192
+    Font.Name = 'Courier New'
+    ParentFont = False
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object btnInitFunctions: TButton
+    Left = 8
+    Height = 25
+    Top = 8
+    Width = 128
+    Caption = 'Init Functions'
+    OnClick = btnInitFunctionsClick
+    TabOrder = 1
+  end
+  object btnTolerance: TButton
+    Left = 8
+    Height = 25
+    Top = 40
+    Width = 128
+    Caption = 'Tolerance'
+    OnClick = btnToleranceClick
+    TabOrder = 2
+  end
+  object btnXMVec3: TButton
+    Left = 152
+    Height = 25
+    Top = 8
+    Width = 128
+    Caption = 'XMVec3'
+    OnClick = btnXMVec3Click
+    TabOrder = 3
+  end
+  object btnVectorOops: TButton
+    Left = 152
+    Height = 25
+    Top = 40
+    Width = 128
+    Caption = 'VectorOops'
+    OnClick = btnVectorOopsClick
+    TabOrder = 4
+  end
+end
